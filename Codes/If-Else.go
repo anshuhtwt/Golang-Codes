@@ -1,7 +1,5 @@
 package main
-
 import "fmt"
-
 func main() {
 	salary := 600
 	if salary > 10000 {
